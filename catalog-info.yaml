@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: user-docs
+  name: tunnel-docs
 spec:
   type: documentation
   lifecycle: "-"
